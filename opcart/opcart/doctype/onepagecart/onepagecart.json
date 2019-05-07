@@ -4,15 +4,15 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "enable_opc",
-  "item_code",
-  "item_name",
-  "dealer_price",
-  "mrp",
-  "qty",
-  "add_to_cart",
-  "confirm_order",
-  "route"
+  "enable_opc":"enable_opc",
+  "item_code":"item_code",
+  "item_name":"item_name",
+  "dealer_price":"dealer_price",
+  "mrp":mrp",
+  "qty":"qty",
+  "add_to_cart":"add_to_cart",
+  "confirm_order":"confirm_order",
+  "route":"route"
  ],
  "fields": [
   {
